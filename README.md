@@ -14,6 +14,8 @@ Curated list of developer resources specific to Bitcoin Cash
   * [BitcoinToken](http://bitcointoken.com): [WeChat AMA](https://bch.games/clemens-ley-bitcointoken-wechat-ama.html), [Tech talk](https://www.youtube.com/watch?v=avkalBoRTPM)
   * [Simple Ledger Protocol (SLP)](https://simpleledger.cash/)
   * [Open Asset: color coin](https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki)
+    * [Reference implementation](https://github.com/OpenAssets/openassets)
+    * [Wallet](https://github.com/OpenAssets/colorcore)
   * [Wormhole](https://www.wormhole.cash/)
   * [Keoken](https://www.keoken.io/)
 * Tutorials
