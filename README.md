@@ -32,6 +32,7 @@ Curated list of developer resources specific to Bitcoin Cash
 * High-level languages
   * Ivy: [Ivy for Bitcoin: a smart contract language that compiles to Bitcoin Script](https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a)
     * [Ivy playground](https://bitcoinmagazine.com/articles/ivy-playground-bitcoin-experimenting-future-bitcoin-smart-contracts/)
+  * Spedn: [Spedn is a high level smart contracts language for Bitcoin Cash](https://spedn.readthedocs.io/en/latest/)
 * Turing completeness
   * [A Proof of Turing completeness in Bitcoin Script by Craig Wright](https://ssrn.com/abstract=3265157)
   * [Turing Complete Bitcoin Script White Paper by  by Craig Wright](https://ssrn.com/abstract=3160279)
